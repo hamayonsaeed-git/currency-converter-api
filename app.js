@@ -1,5 +1,6 @@
 const BASE_URL = "https://open.er-api.com/v6/latest";
 
+jsxbuwbucuwucwucuwc
 
 
 const dropdowns = document.querySelectorAll('.dropdown select');
